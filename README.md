@@ -1,4 +1,9 @@
 ### Hi there 👋
+### Nice to meet you!!
+### I'm Kenneth Chidozie. I write Javascript, Java, and a bit of Python.
+### I'm currently learning Spring and Spring boot.
+### I’m open to new opportunity on any of the above.
+### Looking Forward to meeting you!
 
 <!--
 **doziem/doziem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
