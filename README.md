@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Nice to meet you!!
 ### I'm Kenneth Chidozie. I write Javascript, Java.
-### I'm currently learning Spring and Spring boot.
+### I'm Proficient in React and Spring Boot and Continue to improve in React Native.
 ### I’m open to new opportunity on any of the above.
 ### Looking Forward to meeting you!
 
