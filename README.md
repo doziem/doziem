@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Nice to meet you!!
-### I'm Kenneth Chidozie. I write Javascript, Java, and a bit of Python.
+### I'm Kenneth Chidozie. I write Javascript, Java.
 ### I'm currently learning Spring and Spring boot.
 ### I’m open to new opportunity on any of the above.
 ### Looking Forward to meeting you!
